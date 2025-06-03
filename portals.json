@@ -1,0 +1,24 @@
+{
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": false,
+    "Categorys": [
+        {
+            "Category": "Misc.",
+            "Worlds": [
+                {
+                    "ID": "wrld_3ac3a13c-ac33-42cc-bf55-4a495a3b2ad8",
+                    "Name": "比率谷線 狭尾駅 - Hiriya Line _ Kyoubi Sta. -"
+                }
+            ]
+        },
+        {
+            "Category": "Photo Worlds",
+            "Worlds": [
+                {
+                    "ID": "wrld_07e9d737-8957-4ac6-9128-8d08c05c4fc9",
+                    "Name": "実写合成ミュージアム-RealPhotoFusionMuseum"
+                }
+            ]
+        }
+    ]
+}
