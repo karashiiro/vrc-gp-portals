@@ -1,24 +1,32 @@
 {
-    "ReverseCategorys": false,
-    "ShowPrivateWorld": false,
-    "Categorys": [
+  "ReverseCategorys": false,
+  "ShowPrivateWorld": false,
+  "Categorys": [
+    {
+      "Category": "Misc.",
+      "Worlds": [
         {
-            "Category": "Misc.",
-            "Worlds": [
-                {
-                    "ID": "wrld_3ac3a13c-ac33-42cc-bf55-4a495a3b2ad8",
-                    "Name": "比率谷線 狭尾駅 - Hiriya Line _ Kyoubi Sta. -"
-                }
-            ]
-        },
-        {
-            "Category": "Photo Worlds",
-            "Worlds": [
-                {
-                    "ID": "wrld_07e9d737-8957-4ac6-9128-8d08c05c4fc9",
-                    "Name": "実写合成ミュージアム-RealPhotoFusionMuseum"
-                }
-            ]
+          "ID": "wrld_3ac3a13c-ac33-42cc-bf55-4a495a3b2ad8",
+          "Name": "比率谷線 狭尾駅 - Hiriya Line _ Kyoubi Sta․ -",
+          "Description": "＂No horror ǃ ＂ A fictional Japanese subway station․ ⁄ ホラー要素はありません！ 架空の地下鉄駅。写真撮影などにお使いください。 ＃VRCLightVolumesReady 神祇省公安対魔特務六課 八咫烏、関連ワールド",
+          "Capacity": 32,
+          "RecommendedCapacity": 20,
+          "ReleaseStatus": "public"
         }
-    ]
+      ]
+    },
+    {
+      "Category": "Photo Worlds",
+      "Worlds": [
+        {
+          "ID": "wrld_07e9d737-8957-4ac6-9128-8d08c05c4fc9",
+          "Name": "実写合成ミュージアム-RealPhotoFusionMuseum",
+          "Description": "現実の写真の中に入れるワールドです。写真は随時追加予定。It's a world that puts you in the picture of reality․",
+          "Capacity": 32,
+          "RecommendedCapacity": 16,
+          "ReleaseStatus": "public"
+        }
+      ]
+    }
+  ]
 }
