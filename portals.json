@@ -3,13 +3,50 @@
   "ShowPrivateWorld": false,
   "Categorys": [
     {
-      "Category": "Misc.",
+      "Category": "Games",
       "Worlds": [
         {
-          "ID": "wrld_3ac3a13c-ac33-42cc-bf55-4a495a3b2ad8",
-          "Name": "比率谷線 狭尾駅 - Hiriya Line _ Kyoubi Sta․ -",
-          "Description": "＂No horror ǃ ＂ A fictional Japanese subway station․ ⁄ ホラー要素はありません！ 架空の地下鉄駅。写真撮影などにお使いください。 ＃VRCLightVolumesReady 神祇省公安対魔特務六課 八咫烏、関連ワールド",
-          "Capacity": 32,
+          "ID": "wrld_30701a1b-9685-4a45-b0ca-05f9991fa64e",
+          "Name": "Snowball Showdown",
+          "Description": "Throw snowballs at your friendsǃ Includes game modes like Free-For-All‚ Capture the Flag‚ and King of the Hill",
+          "Capacity": 24,
+          "RecommendedCapacity": 20,
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_42b399f6-08c2-4155-a293-9b26bd337e4e",
+          "Name": "Go Kart Zombie Tag",
+          "Description": "Game of zombie tag‚ but with custom made kartsǃ Big thanks to Drawasaurus for kart ＆ cannon visuals; and Wastelandpyro for music and thumbnail ＾＾",
+          "Capacity": 60,
+          "RecommendedCapacity": 40,
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_236bb7cd-dca2-44a2-9542-3b965e15d37d",
+          "Name": "RESONARK 4 ELVES Pt․1 - RhythmGame - v4․1․7a",
+          "Description": "Rhythm game world for PCVR ＆ Desktop ＆ Android （Quest） ｜ Language˸ 日本語‚ English ｜ Player˸ 1-2",
+          "Capacity": 28,
+          "RecommendedCapacity": 14,
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_27f609ee-beae-40ba-941b-6af6af0efa66",
+          "Name": "RESONARK 4 ELVES Pt․2 - RhythmGame - v4․1․6",
+          "Description": "Rhythm game world for PCVR ＆ Desktop ＆ Android （Quest） ｜ Language˸ 日本語‚ English ｜ Player˸ 1-2",
+          "Capacity": 28,
+          "RecommendedCapacity": 14,
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "Exploration",
+      "Worlds": [
+        {
+          "ID": "wrld_8ac2305e-6141-4eb4-b0e9-ea2c9d2b72a8",
+          "Name": "Hokyl Night",
+          "Description": "121 Square Kilometers of city to Drive‚ Glide or Fly around at night․",
+          "Capacity": 80,
           "RecommendedCapacity": 20,
           "ReleaseStatus": "public"
         }
@@ -24,6 +61,14 @@
           "Description": "現実の写真の中に入れるワールドです。写真は随時追加予定。It's a world that puts you in the picture of reality․",
           "Capacity": 32,
           "RecommendedCapacity": 16,
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3ac3a13c-ac33-42cc-bf55-4a495a3b2ad8",
+          "Name": "比率谷線 狭尾駅 - Hiriya Line _ Kyoubi Sta․ -",
+          "Description": "＂No horror ǃ ＂ A fictional Japanese subway station․ ⁄ ホラー要素はありません！ 架空の地下鉄駅。写真撮影などにお使いください。 ＃VRCLightVolumesReady 神祇省公安対魔特務六課 八咫烏、関連ワールド",
+          "Capacity": 32,
+          "RecommendedCapacity": 20,
           "ReleaseStatus": "public"
         }
       ]

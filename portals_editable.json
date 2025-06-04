@@ -1,13 +1,34 @@
 {
-  "ReverseCategorys": false,
+  "ReverseCategories": false,
   "ShowPrivateWorld": false,
-  "Categorys": [
+  "Categories": [
     {
-      "Category": "Misc.",
+      "Category": "Games",
       "Worlds": [
         {
-          "ID": "wrld_3ac3a13c-ac33-42cc-bf55-4a495a3b2ad8",
-          "Comment": "Hiriya Line - Kyoubi Sta."
+          "ID": "wrld_30701a1b-9685-4a45-b0ca-05f9991fa64e",
+          "Comment": "Snowball Showdown"
+        },
+        {
+          "ID": "wrld_42b399f6-08c2-4155-a293-9b26bd337e4e",
+          "Comment": "Go Kart Zombie Tag"
+        },
+        {
+          "ID": "wrld_236bb7cd-dca2-44a2-9542-3b965e15d37d",
+          "Comment": "RESONARK 4 ELVES Pt.1"
+        },
+        {
+          "ID": "wrld_27f609ee-beae-40ba-941b-6af6af0efa66",
+          "Comment": "RESONARK 4 ELVES Pt.2"
+        }
+      ]
+    },
+    {
+      "Category": "Exploration",
+      "Worlds": [
+        {
+          "ID": "wrld_8ac2305e-6141-4eb4-b0e9-ea2c9d2b72a8",
+          "Comment": "Hokyl Night"
         }
       ]
     },
@@ -17,6 +38,10 @@
         {
           "ID": "wrld_07e9d737-8957-4ac6-9128-8d08c05c4fc9",
           "Comment": "RealPhotoFusionMuseum"
+        },
+        {
+          "ID": "wrld_3ac3a13c-ac33-42cc-bf55-4a495a3b2ad8",
+          "Comment": "Hiriya Line - Kyoubi Sta."
         }
       ]
     }

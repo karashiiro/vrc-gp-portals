@@ -11,9 +11,9 @@ export const PortalLibraryCategoryInputSchema = z.object({
 });
 
 export const PortalLibraryInputSchema = z.object({
-  ReverseCategorys: z.boolean(),
+  ReverseCategories: z.boolean(),
   ShowPrivateWorld: z.boolean(),
-  Categorys: z.array(PortalLibraryCategoryInputSchema),
+  Categories: z.array(PortalLibraryCategoryInputSchema),
 });
 
 export const PortalLibraryWorldOutputSchema = z.object({

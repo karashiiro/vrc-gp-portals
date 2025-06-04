@@ -16,7 +16,7 @@ const worldInfo: Record<
   string,
   z.infer<typeof PortalLibraryWorldOutputSchema>
 > = {};
-for (const category of inputPortals.Categorys) {
+for (const category of inputPortals.Categories) {
   for (const world of category.Worlds) {
     if (world.ID in worldInfo) continue;
 
@@ -43,9 +43,9 @@ for (const category of inputPortals.Categorys) {
 }
 
 const outputPortals = PortalLibraryOutputSchema.parse({
-  ReverseCategorys: inputPortals.ReverseCategorys,
+  ReverseCategorys: inputPortals.ReverseCategories,
   ShowPrivateWorld: inputPortals.ShowPrivateWorld,
-  Categorys: inputPortals.Categorys.map((category) => ({
+  Categorys: inputPortals.Categories.map((category) => ({
     Category: category.Category,
     Worlds: category.Worlds.map((world) => worldInfo[world.ID]),
   })),
