@@ -18,11 +18,11 @@ jobs:
         run: corepack enable
       - name: Install dependencies
         run: pnpm install
-      - name: Regenerate data
+      - name: Regenerate portal manifest
         run: pnpm start
       - name: Commit new files
         run: |
           git config --global user.email "noreply@example.com"
           git config --global user.name "Automated Data Update"
-          git commit -a -m "Generate data stores"
+          git commit -a -m "Generate portal manifest"
           git push
