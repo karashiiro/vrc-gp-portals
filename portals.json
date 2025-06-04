@@ -96,6 +96,19 @@
           "ReleaseStatus": "public"
         }
       ]
+    },
+    {
+      "Category": "Expos",
+      "Worlds": [
+        {
+          "ID": "wrld_b526c3e0-7c32-4774-931e-5dcbdd125794",
+          "Name": "Shader Fes 2021",
+          "Description": "様々なクリエイターによる200以上のシェーダー作品を展示しています。More than 200 shader works are on display․",
+          "Capacity": 80,
+          "RecommendedCapacity": 40,
+          "ReleaseStatus": "public"
+        }
+      ]
     }
   ]
 }
