@@ -56,6 +56,15 @@
           "Comment": "Hiriya Line - Kyoubi Sta."
         }
       ]
+    },
+    {
+      "Category": "Expos",
+      "Worlds": [
+        {
+          "ID": "wrld_b526c3e0-7c32-4774-931e-5dcbdd125794",
+          "Comment": "ShaderFes 2021"
+        }
+      ]
     }
   ]
 }
