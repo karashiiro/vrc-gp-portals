@@ -49,6 +49,22 @@
           "Capacity": 80,
           "RecommendedCapacity": 20,
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a8912308-d979-407e-b744-4a6a760ff86e",
+          "Name": "Horse Mountain",
+          "Description": "Welcome to the majestic mountain trails of Winter Horseback Ridingǃ Here‚ you will get to experience the beauty of nature while riding on the back of a trusty steed․ Feel the crisp mountain air as you ride through the snow-covered hills‚ creating a magical winter wonderland that you will never forget․ Go for a night ride or just warm up at a one of our cozy campfires․ So‚ saddle up and get ready to explore this unique experienceǃ This is my first PC⁄Quest compatible world and may have some visual issues on the Quest side․ ∗∗ Wow Thank You for the 1 Million＋ Visits․ ∗∗ You guys rockǃ ≺3",
+          "Capacity": 20,
+          "RecommendedCapacity": 12,
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3175143d-3c68-4719-9297-5f0145e059e2",
+          "Name": "Lost Valley Lake Retreat",
+          "Description": "Grab your hiking boots‚ swimming trunks and some friends for this open world experience․ Get away from your day to day stress by exploring Lost Valley Lake Retreat by foot or on our jet ski's or drivable inner tubes․ Find your perfect place to relax and just take in all the natural beauty around you․ Take stunning pictures․ Find a campsite where you can turn on night mode and relax around the campfire․ You can also use the portable video player for a movie night in the woods․ Are you ready to retreat back to nature? ∗∗March-2024 Requested Player count increase ∗∗ Not recommended to run at full capacity∗∗․",
+          "Capacity": 80,
+          "RecommendedCapacity": 80,
+          "ReleaseStatus": "public"
         }
       ]
     },

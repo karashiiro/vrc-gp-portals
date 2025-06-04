@@ -30,6 +30,7 @@ for (const category of inputPortals.Categories) {
     )
       .then((res) => res.json())
       .then((data) => VRCWorldInfo.parse(data));
+    await new Promise((resolve) => setTimeout(resolve, 100)); // Rate limiting
 
     worldInfo[world.ID] = {
       ID: world.ID,
